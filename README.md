@@ -21,3 +21,7 @@ npm run dev
 ```Shell
 npm run storybook
 ```
+
+## Figma
+
+[Clique aqui](https://www.figma.com/file/lsFOJsnrYN7TPlrN0K5TSm/Ignite-Lab-Design-System)
